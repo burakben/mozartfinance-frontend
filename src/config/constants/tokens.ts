@@ -13,18 +13,18 @@ const tokens = {
     projectLink: 'https://mozartfinance.io/',
   },
   piano: {
-    symbol: 'PIANO',
+    symbol: 'RELON',
     address: {
-      56: '0xd46936677b2c1bb696f2b67c55239331e2b7cd42',
+      56: '0xfE6D035E592613e24149def287bAb7F3E713F69F',
       97: '',
     },
     decimals: 18,
     projectLink: 'https://mozartfinance.io/',
   },
   foam: {
-    symbol: 'FOAM',
+    symbol: 'RELON',
     address: {
-      56: '0x5380ce816082d9a01c914cab73eb062f290131d6',
+      56: '0xfE6D035E592613e24149def287bAb7F3E713F69F',
       97: '',
     },
     decimals: 18,
