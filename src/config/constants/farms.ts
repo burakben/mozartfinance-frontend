@@ -4,9 +4,9 @@ import { FarmConfig } from './types'
 const farms: FarmConfig[] = [
   {
     pid: 0,
-    lpSymbol: 'PIANO',
+    lpSymbol: 'RELON',
     lpAddresses: {
-      56: '0xd46936677B2C1Bb696F2b67c55239331E2b7Cd42',
+      56: '0xfE6D035E592613e24149def287bAb7F3E713F69F',
       97: '',
     },
     token: tokens.foam,
@@ -14,9 +14,9 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 1,
-    lpSymbol: 'PIANO-BNB LP',
+    lpSymbol: 'RELON-BNB LP',
     lpAddresses: {
-      56: '0xb40AE531Da43F7D114F2E6D9c331171Ef4130f5F',
+      56: '0xfE6D035E592613e24149def287bAb7F3E713F69F',
       97: '',
     },
     token: tokens.piano,
